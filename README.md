@@ -1,4 +1,4 @@
-# ToF-Scripts
+# Obstacle Detection for Mobile Robot using a 3D ToF Camera
 
 Here we provide the Matlab code we use to import and process the data acquired by the Time-Of-Flight sensor. For this reason, we use the script Box2_V_1_5.
 

@@ -1,6 +1,6 @@
 # Obstacle Detection for Mobile Robot using a 3D ToF Camera
 
-This repository contains the code for the project "Obstacle Detection for Mobile Robot using a 3D ToF Camera". The goal of this project is for an autonomous ground vehicle (AGV) to collect, process, and visualize sensor data, in order to identify objects in its surrounding and define their position in space.
+This repository contains the code for the project "**Obstacle Detection for Mobile Robot using a 3D ToF Camera**". The goal of this project is for an autonomous ground vehicle (AGV) to collect, process, and visualize sensor data, in order to identify objects in its surrounding and define their position in space.
 
 This repository is organised as follows:
 - The ***Box2_V_1_5*** file contains the the code we use to import and process the acquired by the Time-Of-Flight sensor.

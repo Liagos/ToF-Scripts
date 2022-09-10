@@ -7,4 +7,4 @@ The repository is organised as follows:
 - The `BBox_World_EdgeBox.m` file shifts the points from the edges of the created bounding box onto the edges of the actual box used for the calibration.
 - The `Polar_plot.m` file plots the angle of the left and right box edge.
 - The `Plot_Box_Edges.m` file plots the detected points and their corresponding real position (ground truth).
-- `Mapping_Edge.m` file is used to plot the edges of the detected boxes along with the real edges (ground truth).
+- The `Mapping_Edge.m` file is used to plot the edges of the detected boxes along with the real edges (ground truth).

@@ -10,4 +10,4 @@ The repository is organised as follows:
 - The `Mapping_Edge.m` file plots the detected box edges along with the real edges (ground truth).
 
 To run the code you will need to install:
-- [MATLAb](https://ch.mathworks.com/products/matlab.html)
+- [MATLAB](https://ch.mathworks.com/products/matlab.html)

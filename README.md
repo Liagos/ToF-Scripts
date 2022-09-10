@@ -8,3 +8,6 @@ The repository is organised as follows:
 - The `Polar_plot.m` file plots the angle of the left and right box edge.
 - The `Plot_Box_Edges.m` file plots the detected points and their corresponding real position (ground truth).
 - The `Mapping_Edge.m` file plots the detected box edges along with the real edges (ground truth).
+
+To run the code you will need to install:
+- [MATLAb](https://ch.mathworks.com/products/matlab.html)
